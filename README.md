@@ -25,6 +25,6 @@ plays a crucial role in this relationship.
 R · plm · ggplot2 · stargazer
 
 ## Files
-- `thesis.R` — full R script
-- `tesi_736903.pdf` — complete thesis
-- `Ferraresi_Gabriele.pptx` — presentation slides
+- `final_dissertation.R` — full R script
+- `final_dissertation.pdf` — complete thesis
+- `final_dissertation.pptx` — presentation slides
